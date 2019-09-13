@@ -1,5 +1,6 @@
 import React, { Component } from "react"; 
 import Displaytodo from "./Displaytodo"; 
+import "./Todolist.css"
 
 class Todolist extends Component {
     constructor(props) {

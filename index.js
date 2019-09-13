@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom"; 
 import "./index.css"; 
 import Todolist from "./Todolist"; 
+import Displaytodo from "./Displaytodo"; 
 
 var destination = document.querySelector("#container"); 
 

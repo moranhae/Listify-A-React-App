@@ -1,0 +1,27 @@
+.todolistMain .header input {
+   padding: 10px; 
+   font-size: 16px; 
+   border: 2px solid #000; 
+   width: 250px; 
+   margin-right: 10px; 
+}
+.todolistMain .header button {
+    padding: 10px; 
+    font-size: 16px; 
+    color: black; 
+    background-color: lightseagreen; 
+    border: 2px solid #000; 
+   
+}
+.todolistMain {
+    background-color: white; 
+    padding-top: 40px; 
+    padding-bottom: 40px;
+    padding-left: 100px; 
+    padding-right: 100px; 
+    box-shadow: 2px 2px 8px darkslategrey; 
+}
+.theList {
+    text-decoration: none; 
+    color: darkslategrey; 
+}
